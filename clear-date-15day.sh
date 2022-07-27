@@ -5,3 +5,4 @@ find /home/ftpuser/ftp/files -type f -mtime +15 -delete
 # -mtime +15 - когда был создан, +15 значит, что 15 дней назад
 # -delete - удалить найденные файлы
 #Hello
+#world
